@@ -1,0 +1,87 @@
+# Ciao, sono Riccardo 👋
+
+**Fullstack Software Engineer** from Senigallia, Italy 🇮🇹
+
+I've been writing code for nearly 20 years — from enterprise Java to modern TypeScript stacks, from building SaaS platforms to helping startups launch as CTO. I design, build, and scale software that's robust, user-friendly, and aligned with real business goals.
+
+Currently freelancing and exploring the intersection of **AI adoption** and **developer tooling** with n8n and AI-SDK.
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**\
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Backend**\
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+**Data & DevOps**\
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+**Testing**\
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xMzYuNDQ0IDIyMS41NTZDMTIzLjU1OCAyMjUuMjEzIDExNS4xMDQgMjMxLjYyNSAxMDkuNTM1IDIzOC4wMzJDMTE0Ljg2OSAyMzMuMzY0IDEyMi4wMTQgMjI5LjA4IDEzMS42NTIgMjI2LjM0OEMxNDEuNTEgMjIzLjU1NCAxNDkuOTIgMjIzLjU3NCAxNTYuODY5IDIyNC45MTVWMjE5LjQ4MUMxNTAuOTQxIDIxOC45MzkgMTQ0LjE0NSAyMTkuMzcxIDEzNi40NDQgMjIxLjU1NlpNMTA4Ljk0NiAxNzUuODc2TDYxLjA4OTUgMTg4LjQ4NEM2MS4wODk1IDE4OC40ODQgNjEuOTYxNyAxODkuNzE2IDYzLjU3NjcgMTkxLjM2TDEwNC4xNTMgMTgwLjY2OEMxMDQuMTUzIDE4MC42NjggMTAzLjU3OCAxODguMDc3IDk4LjU4NDcgMTk0LjcwNUMxMDguMDMgMTg3LjU1OSAxMDguOTQ2IDE3NS44NzYgMTA4Ljk0NiAxNzUuODc2Wk0xNDkuMDA1IDI4OC4zNDdDODEuNjU4MiAzMDYuNDg2IDQ2LjAyNzIgMjI4LjQzOCAzNS4yMzk2IDE4Ny45MjhDMzAuMjU1NiAxNjkuMjI5IDI4LjA3OTkgMTU1LjA2NyAyNy41IDE0NS45MjhDMjcuNDM3NyAxNDQuOTc5IDI3LjQ2NjUgMTQ0LjE3OSAyNy41MzM2IDE0My40NDZDMjQuMDQgMTQzLjY1NyAyMi4zNjc0IDE0NS40NzMgMjIuNzA3NyAxNTAuNzIxQzIzLjI4NzYgMTU5Ljg1NSAyNS40NjMzIDE3NC4wMTYgMzAuNDQ3MyAxOTIuNzIxQzQxLjIzMDEgMjMzLjIyNSA3Ni44NjU5IDMxMS4yNzMgMTQ0LjIxMyAyOTMuMTM0QzE1OC44NzIgMjg5LjE4NSAxNjkuODg1IDI4MS45OTIgMTc4LjE1MiAyNzIuODFDMTcwLjUzMiAyNzkuNjkyIDE2MC45OTUgMjg1LjExMiAxNDkuMDA1IDI4OC4zNDdaTTE2MS42NjEgMTI4LjExVjEzMi45MDNIMTg4LjA3N0MxODcuNTM1IDEzMS4yMDYgMTg2Ljk4OSAxMjkuNjc3IDE4Ni40NDcgMTI4LjExSDE2MS42NjFaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTkzLjk4MSAxNjcuNTg0QzIwNS44NjEgMTcwLjk1OCAyMTIuMTQ0IDE3OS4yODcgMjE1LjQ2NSAxODYuNjU4TDIyOC43MTEgMTkwLjQyQzIyOC43MTEgMTkwLjQyIDIyNi45MDQgMTY0LjYyMyAyMDMuNTcgMTU3Ljk5NUMxODEuNzQxIDE1MS43OTMgMTY4LjMwOCAxNzAuMTI0IDE2Ni42NzQgMTcyLjQ5NkMxNzMuMDI0IDE2Ny45NzIgMTgyLjI5NyAxNjQuMjY4IDE5My45ODEgMTY3LjU4NFpNMjk5LjQyMiAxODYuNzc3QzI3Ny41NzMgMTgwLjU0NyAyNjQuMTQ1IDE5OC45MTYgMjYyLjUzNSAyMDEuMjU1QzI2OC44OSAxOTYuNzM2IDI3OC4xNTggMTkzLjAzMSAyODkuODM3IDE5Ni4zNjJDMzAxLjY5OCAxOTkuNzQxIDMwNy45NzYgMjA4LjA2IDMxMS4zMDcgMjE1LjQzNkwzMjQuNTcyIDIxOS4yMTJDMzI0LjU3MiAyMTkuMjEyIDMyMi43MzYgMTkzLjQxIDI5OS40MjIgMTg2Ljc3N1pNMjg2LjI2MiAyNTQuNzk1TDE3Ni4wNzIgMjIzLjk5QzE3Ni4wNzIgMjIzLjk5IDE3Ny4yNjUgMjMwLjAzOCAxODEuODQyIDIzNy44NjlMMjc0LjYxNyAyNjMuODA1QzI4Mi4yNTUgMjU5LjM4NiAyODYuMjYyIDI1NC43OTUgMjg2LjI2MiAyNTQuNzk1Wk0yMDkuODY3IDMyMS4xMDJDMTIyLjYxOCAyOTcuNzEgMTMzLjE2NiAxODYuNTQzIDE0Ny4yODQgMTMzLjg2NUMxNTMuMDk3IDExMi4xNTYgMTU5LjA3MyA5Ni4wMjAzIDE2NC4wMjkgODUuMjA0QzE2MS4wNzIgODQuNTk1MyAxNTguNjIzIDg2LjE1MjkgMTU2LjIwMyA5MS4wNzQ2QzE1MC45NDEgMTAxLjc0NyAxNDQuMjEyIDExOS4xMjQgMTM3LjcgMTQzLjQ1QzEyMy41ODYgMTk2LjEyNyAxMTMuMDM4IDMwNy4yOSAyMDAuMjgzIDMzMC42ODJDMjQxLjQwNiAzNDEuNjk5IDI3My40NDIgMzI0Ljk1NSAyOTcuMzIzIDI5OC42NTlDMjc0LjY1NSAzMTkuMTkgMjQ1LjcxNCAzMzAuNzAxIDIwOS44NjcgMzIxLjEwMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xNjEuNjYxIDI2Mi4yOTZWMjM5Ljg2M0w5OS4zMzI0IDI1Ny41MzdDOTkuMzMyNCAyNTcuNTM3IDEwMy45MzggMjMwLjc3NyAxMzYuNDQ0IDIyMS41NTZDMTQ2LjMwMiAyMTguNzYyIDE1NC43MTMgMjE4Ljc4MSAxNjEuNjYxIDIyMC4xMjNWMTI4LjExSDE5Mi44NjlDMTg5LjQ3MSAxMTcuNjEgMTg2LjE4NCAxMDkuNTI2IDE4My40MjMgMTAzLjkwOUMxNzguODU2IDk0LjYxMiAxNzQuMTc0IDEwMC43NzUgMTYzLjU0NSAxMDkuNjY1QzE1Ni4wNTkgMTE1LjkxOSAxMzcuMTM5IDEyOS4yNjEgMTA4LjY2OCAxMzYuOTMzQzgwLjE5NjYgMTQ0LjYxIDU3LjE3OSAxNDIuNTc0IDQ3LjU3NTIgMTQwLjkxMUMzMy45NjAxIDEzOC41NjIgMjYuODM4NyAxMzUuNTcyIDI3LjUwNDkgMTQ1LjkyOEMyOC4wODQ3IDE1NS4wNjIgMzAuMjYwNSAxNjkuMjI0IDM1LjI0NDUgMTg3LjkyOEM0Ni4wMjcyIDIyOC40MzMgODEuNjYzIDMwNi40ODEgMTQ5LjAxIDI4OC4zNDJDMTY2LjYwMiAyODMuNjAyIDE3OS4wMTkgMjc0LjIzMyAxODcuNjI2IDI2Mi4yOTFIMTYxLjY2MVYyNjIuMjk2Wk02MS4wODQ4IDE4OC40ODRMMTA4Ljk0NiAxNzUuODc2QzEwOC45NDYgMTc1Ljg3NiAxMDcuNTUxIDE5NC4yODggODkuNjA4NyAxOTkuMDE4QzcxLjY2MTQgMjAzLjc0MyA2MS4wODQ4IDE4OC40ODQgNjEuMDg0OCAxODguNDg0WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTM0MS43ODYgMTI5LjE3NEMzMjkuMzQ1IDEzMS4zNTUgMjk5LjQ5OCAxMzQuMDcyIDI2Mi42MTIgMTI0LjE4NUMyMjUuNzE2IDExNC4zMDQgMjAxLjIzNiA5Ny4wMjI0IDE5MS41MzcgODguODk5NEMxNzcuNzg4IDc3LjM4MzQgMTcxLjc0IDY5LjM4MDIgMTY1Ljc4OCA4MS40ODU3QzE2MC41MjYgOTIuMTYzIDE1My43OTcgMTA5LjU0IDE0Ny4yODQgMTMzLjg2NkMxMzMuMTcxIDE4Ni41NDMgMTIyLjYyMyAyOTcuNzA2IDIwOS44NjcgMzIxLjA5OEMyOTcuMDkzIDM0NC40NyAzNDMuNTMgMjQyLjkyIDM1Ny42NDQgMTkwLjIzOEMzNjQuMTU3IDE2NS45MTcgMzY3LjAxMyAxNDcuNSAzNjcuNzk5IDEzNS42MjVDMzY4LjY5NSAxMjIuMTczIDM1OS40NTUgMTI2LjA3OCAzNDEuNzg2IDEyOS4xNzRaTTE2Ni40OTcgMTcyLjc1NkMxNjYuNDk3IDE3Mi43NTYgMTgwLjI0NiAxNTEuMzcyIDIwMy41NjUgMTU4QzIyNi44OTkgMTY0LjYyOCAyMjguNzA2IDE5MC40MjUgMjI4LjcwNiAxOTAuNDI1TDE2Ni40OTcgMTcyLjc1NlpNMjIzLjQyIDI2OC43MTNDMTgyLjQwMyAyNTYuNjk4IDE3Ni4wNzcgMjIzLjk5IDE3Ni4wNzcgMjIzLjk5TDI4Ni4yNjIgMjU0Ljc5NkMyODYuMjYyIDI1NC43OTEgMjY0LjAyMSAyODAuNTc4IDIyMy40MiAyNjguNzEzWk0yNjIuMzc3IDIwMS40OTVDMjYyLjM3NyAyMDEuNDk1IDI3Ni4xMDcgMTgwLjEyNiAyOTkuNDIyIDE4Ni43NzNDMzIyLjczNiAxOTMuNDExIDMyNC41NzIgMjE5LjIwOCAzMjQuNTcyIDIxOS4yMDhMMjYyLjM3NyAyMDEuNDk1WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEzOS44OCAyNDYuMDRMOTkuMzMyNCAyNTcuNTMyQzk5LjMzMjQgMjU3LjUzMiAxMDMuNzM3IDIzMi40NCAxMzMuNjA3IDIyMi40OTZMMTEwLjY0NyAxMzYuMzNMMTA4LjY2MyAxMzYuOTMzQzgwLjE5MTggMTQ0LjYxMSA1Ny4xNzQyIDE0Mi41NzQgNDcuNTcwNCAxNDAuOTExQzMzLjk1NTQgMTM4LjU2MyAyNi44MzQgMTM1LjU3MiAyNy41MDAxIDE0NS45MjlDMjguMDggMTU1LjA2MyAzMC4yNTU3IDE2OS4yMjQgMzUuMjM5NyAxODcuOTI5QzQ2LjAyMjUgMjI4LjQzMyA4MS42NTgzIDMwNi40ODEgMTQ5LjAwNSAyODguMzQyTDE1MC45ODkgMjg3LjcxOUwxMzkuODggMjQ2LjA0Wk02MS4wODQ4IDE4OC40ODVMMTA4Ljk0NiAxNzUuODc2QzEwOC45NDYgMTc1Ljg3NiAxMDcuNTUxIDE5NC4yODggODkuNjA4NyAxOTkuMDE4QzcxLjY2MTUgMjAzLjc0MyA2MS4wODQ4IDE4OC40ODUgNjEuMDg0OCAxODguNDg1WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTIyNS4yNyAyNjkuMTYzTDIyMy40MTUgMjY4LjcxMkMxODIuMzk4IDI1Ni42OTggMTc2LjA3MiAyMjMuOTkgMTc2LjA3MiAyMjMuOTlMMjMyLjg5IDIzOS44NzJMMjYyLjk3MSAxMjQuMjgxTDI2Mi42MDcgMTI0LjE4NUMyMjUuNzExIDExNC4zMDQgMjAxLjIzMiA5Ny4wMjI0IDE5MS41MzIgODguODk5NEMxNzcuNzgzIDc3LjM4MzQgMTcxLjczNSA2OS4zODAyIDE2NS43ODMgODEuNDg1N0MxNjAuNTI2IDkyLjE2MyAxNTMuNzk3IDEwOS41NCAxNDcuMjg0IDEzMy44NjZDMTMzLjE3MSAxODYuNTQzIDEyMi42MjMgMjk3LjcwNiAyMDkuODY3IDMyMS4wOTdMMjExLjY1NSAzMjEuNUwyMjUuMjcgMjY5LjE2M1pNMTY2LjQ5NyAxNzIuNzU2QzE2Ni40OTcgMTcyLjc1NiAxODAuMjQ2IDE1MS4zNzIgMjAzLjU2NSAxNThDMjI2Ljg5OSAxNjQuNjI4IDIyOC43MDYgMTkwLjQyNSAyMjguNzA2IDE5MC40MjVMMTY2LjQ5NyAxNzIuNzU2WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0MS45NDYgMjQ1LjQ1MUwxMzEuMDcyIDI0OC41MzdDMTMzLjY0MSAyNjMuMDE5IDEzOC4xNjkgMjc2LjkxNyAxNDUuMjc2IDI4OS4xOTVDMTQ2LjUxMyAyODguOTIyIDE0Ny43NCAyODguNjg3IDE0OSAyODguMzQyQzE1Mi4zMDIgMjg3LjQ1MSAxNTUuMzY0IDI4Ni4zNDggMTU4LjMxMiAyODUuMTQ1QzE1MC4zNzEgMjczLjM2MSAxNDUuMTE4IDI1OS43ODkgMTQxLjk0NiAyNDUuNDUxWk0xMzcuNyAxNDMuNDUxQzEzMi4xMTIgMTY0LjMwNyAxMjcuMTEzIDE5NC4zMjYgMTI4LjQ4OSAyMjQuNDM2QzEzMC45NTIgMjIzLjM2NyAxMzMuNTU0IDIyMi4zNzEgMTM2LjQ0NCAyMjEuNTUxTDEzOC40NTcgMjIxLjEwMUMxMzYuMDAzIDE4OC45MzkgMTQxLjMwOCAxNTYuMTY1IDE0Ny4yODQgMTMzLjg2NkMxNDguNzk5IDEyOC4yMjUgMTUwLjMxOCAxMjIuOTc4IDE1MS44MzIgMTE4LjA4NUMxNDkuMzkzIDExOS42MzcgMTQ2Ljc2NyAxMjEuMjI4IDE0My43NzYgMTIyLjg2N0MxNDEuNzU5IDEyOS4wOTMgMTM5LjcyMiAxMzUuODk4IDEzNy43IDE0My40NTFaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+
+**AI & Automation**\
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![AI SDK](https://img.shields.io/badge/AI--SDK-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+### 💼 What I do
+
+- 🔧 **Fullstack Development** — Vue.js, React, Node.js, NestJS, GraphQL, REST APIs
+- 🧪 **QA Engineering** — 400+ E2E test cases with Cypress, Playwright automation
+- 🚀 **Startup Tech Leadership** — 8 years as CTO, building SaaS from zero to launch
+- 🤖 **AI Integration** — Bringing AI capabilities into real products with AI-SDK and n8n
+- ☁️ **Cloud & DevOps** — Docker, CI/CD pipelines, AWS, scalable architectures
+
+---
+
+### 🚀 Notable Experience
+
+**Freelance Software Engineer** *(2021 – Present)*\
+Building Vue.js + TypeScript applications serving 10,000+ active users, GraphQL APIs with Node.js & MongoDB, and comprehensive E2E test suites.
+
+**CEO/CTO @ Refacturing Ltd, London** *(2016 – 2024)*\
+Designed and shipped SaaS products for startups. Built Backend-as-a-Service platforms with Scala on AWS. Led teams and mentored developers.
+
+**Java/Scala Senior Developer & Architect** *(2006 – 2015)*\
+Enterprise applications, system architecture, performance optimization across multiple companies in Milan and Ancona.
+
+---
+
+### 🎙 Projects & Content
+
+- **Transcribe App** — SaaS for podcast transcription using Speech-to-Text technologies
+- **Strategia IT** — Podcast about the Italian IT ecosystem and tech conversations
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ricmancio&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Riccardo's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricmancio&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricmancio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricmancio)
