@@ -85,3 +85,4 @@ Enterprise applications, system architecture, performance optimization across mu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricmancio)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricmancio)
+[![Stack Decisions Newsletter](https://img.shields.io/badge/Newsletter-Stack%20Decisions-orange?style=for-the-badge&logo=substack&logoColor=white)](https://stackdecisions.substack.com)
