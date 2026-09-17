@@ -2,7 +2,7 @@
 
 **Fullstack Software Engineer** from Senigallia, Italy 🇮🇹
 
-I've been writing code for nearly 20 years — from enterprise Java to modern TypeScript stacks, from building SaaS platforms to helping startups launch as CTO. I design, build, and scale software that's robust, user-friendly, and aligned with real business goals.
+I've been writing code for over 20 years — from enterprise Java to modern TypeScript stacks, from building SaaS platforms to helping startups launch as CTO. I design, build, and scale software that's robust, user-friendly, and aligned with real business goals.
 
 Currently freelancing and exploring the intersection of **AI adoption** and **developer tooling** with n8n and AI-SDK.
 
